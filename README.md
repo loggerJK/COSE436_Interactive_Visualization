@@ -2,6 +2,9 @@
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/>
 
+## Preview : HW3
+![teaser](./imgs/interactive.gif)
+
 ## Assignments
 - For full assignment specifications, please refer to pdf file included in each `Assign_*` folder.
   
